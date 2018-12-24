@@ -1,1 +1,1 @@
-# h21-map-types-infobox-leaflet
+# h21-map-types-infobox-google
